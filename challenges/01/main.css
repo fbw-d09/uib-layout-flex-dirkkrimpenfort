@@ -8,3 +8,12 @@ div {
   border: 2px solid red;
   text-align: center;
 }
+
+body
+{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+
+}
